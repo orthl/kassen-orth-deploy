@@ -1,0 +1,35 @@
+# Kassen Orth
+
+> Kassensysteme zum Festpreis für Gastronomie, Einzelhandel, Friseure und Events im Saarland und in der Region Trier: Speedy Kasse mit TSE, Anbindung ans BestPay-Kartenterminal, Einrichtung vor Ort, Checkliste für die Meldung beim Finanzamt. Ein Angebot von Lucas Orth aus Losheim am See.
+
+## Preise (netto zzgl. USt.)
+- Kasse Kompakt: 1.900 € einmalig. Eine Kasse (Tablet mit Ständer), ein Bondrucker, Kassenschublade, Anbindung ans BestPay-Kartenterminal (Gerät und Gebühren direkt über BestPay), Speedy Kasse mit TSE, bis 80 Artikel angelegt, Einrichtung und Schulung vor Ort, Checkliste für Finanzamt und Unterlagen.
+- Kasse Komplett: 2.900 € einmalig. Ab der zweiten Kasse oder mehr als einem Zusatzgerät (zweiter Bondrucker, Küchendrucker, Scanner); Bons nach Küche/Theke, Tischplan, bis 200 Artikel.
+- Wartungsvertrag (optional): 39 € im Monat für die erste Kasse, jede weitere +15 €. Ersatzkasse bei Ausfall, Fernwartung und Hilfe werktags, Updates, jährlicher Check inkl. TSE-Ablauf. Ohne Vertrag Hilfe nach Aufwand.
+- Eventkasse: 249 € je Kasse und Wochenende (bis 4 Tage), Artikel per Excel-Vorlage (bis 50), TSE einmalig zu kaufen und eingelagert.
+- Software-Gebühren rechnet der Softwareanbieter direkt mit dem Kunden ab; Kartengebühren rechnet BestPay direkt ab.
+- Die Meldung beim Finanzamt erledigt der Kunde selbst (oder sein Steuerberater); er bekommt dafür eine Checkliste.
+
+## Bewertungen
+- Google: 5,0 von 5 Sternen bei 29 Bewertungen für Inhaber Lucas Orth.
+
+## Seiten
+- Volltext für KI-Systeme: https://kassen-orth.de/llms-full.txt
+- Gastronomie: https://kassen-orth.de/kassensystem-gastronomie/
+- Einzelhandel: https://kassen-orth.de/kassensystem-einzelhandel/
+- Friseur und Dienstleistung: https://kassen-orth.de/kassensystem-friseur/
+- Feste und Events: https://kassen-orth.de/kasse-mieten-events/
+- Saarland: https://kassen-orth.de/kassensystem-saarland/
+- Trier: https://kassen-orth.de/kassensystem-trier/
+- Ratgeber (Stand 23.11.2026): https://kassen-orth.de/ratgeber/
+  - Kassenpflicht ab 2028 (Entwurf, nicht beschlossen): https://kassen-orth.de/ratgeber/kassenpflicht-2028/
+  - Kasse beim Finanzamt melden (gilt seit 2025): https://kassen-orth.de/ratgeber/kasse-beim-finanzamt-melden/
+  - TSE-Zertifikat läuft ab: https://kassen-orth.de/ratgeber/tse-zertifikat-abgelaufen/
+  - 7 % auf Speisen in der Gastronomie (gilt seit 2026): https://kassen-orth.de/ratgeber/mehrwertsteuer-gastronomie-7-prozent/
+  - Pflicht zur Kartenzahlung (nur Eckpunkte): https://kassen-orth.de/ratgeber/kartenzahlung-pflicht/
+  - Kasse fürs Vereinsfest: https://kassen-orth.de/ratgeber/kasse-vereinsfest/
+
+## Kontakt
+- Telefon: +49 176 4655 1183
+- E-Mail: info@kassen-orth.de
+- Ort: Losheim am See, Saarland; Einsatz im Saarland und in der Region Trier

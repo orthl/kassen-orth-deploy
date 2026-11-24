@@ -1,0 +1,363 @@
+# Kassen Orth
+
+> Kassensystem mit TSE, Einrichtung vor Ort und Anbindung ans Kartenterminal zum Festpreis: für Gastronomie, Einzelhandel, Friseure und Events im Saarland und in der Region Trier.
+
+## Über Kassen Orth
+Inhaber: Lucas Orth. Sitz: Losheim am See, Saarland. Einsatzgebiet: Saarland und Region Trier. Telefon: +49 176 4655 1183. E-Mail: info@kassen-orth.de. Website: https://kassen-orth.de/
+Google-Bewertung des Inhabers: 5,0 von 5 Sternen bei 29 Bewertungen.
+
+## Preise (netto zzgl. USt., Stand November 2026)
+- Kasse Kompakt: 1.900 € einmalig, netto. Eine Kasse mit einem Bondrucker: Café, Laden, Salon, Imbiss. Enthalten: Kassentablet mit Ständer; Ein Bondrucker und Kassenschublade; BestPay-Kartenterminal mit der Kasse verbunden (Gerät und Gebühren über BestPay); Speedy Kasse mit TSE eingerichtet; Bis 80 Artikel angelegt, mit Gruppen und Steuersätzen; Einrichtung und Schulung bei Ihnen vor Ort; Checkliste für Finanzamt und Unterlagen.
+- Kasse Komplett: 2.900 € einmalig, netto. Ab der zweiten Kasse oder sobald ein weiteres Gerät dazukommt: Küchendrucker, Scanner oder zweiter Bondrucker. Enthalten: Alles aus Kasse Kompakt; Zweite Kasse oder weitere Geräte: zweiter Bondrucker, Küchendrucker, Scanner; Bons getrennt nach Küche und Theke eingerichtet; Tischplan für die Gastronomie; Bis 200 Artikel angelegt.
+- Eventkasse: 249 € je Kasse und Wochenende (bis 4 Tage), netto. Für Vereinsfeste, Weinfeste und Märkte, die jedes Jahr wiederkommen. Enthalten: Kassentablet mit Bondrucker und Schublade; Ihre Artikel aus meiner Excel-Vorlage, bis 50 inklusive; Funktioniert auch ohne Internet; TSE einmalig kaufen, ich lagere sie für Ihr nächstes Fest ein; Kartenterminal und weitere Kassen auf Anfrage.
+- Wartungsvertrag: 39 € im Monat für die erste Kasse, jede weitere +15 €, netto. Enthalten: Ersatzkasse, wenn Ihre Kasse ausfällt; Fernwartung und Hilfe werktags, ohne Minutenlimit; Updates einspielen und Artikel ändern; Jährlicher Check, inklusive Ablaufdatum der TSE. Ohne Wartungsvertrag helfe ich nach Aufwand, den Stundensatz nenne ich im Angebot.
+- Software-Gebühren: Die laufenden Gebühren für die Kassensoftware rechnet der Softwareanbieter direkt mit Ihnen ab. Sie sind nicht in meinen Preisen enthalten.
+- Kartenterminal: Gerät und Kartengebühren laufen direkt über BestPay. Die Anbindung an Ihre Kasse ist im Paket.
+- Ohne Anzahlung möglich: Die Einrichtung gibt es auch als Monatsmiete. Den Betrag nenne ich im Angebot.
+- Die Meldung beim Finanzamt erledigt der Kunde oder sein Steuerberater; Kassen Orth liefert eine Checkliste.
+
+## Leistungen
+- Hardware: Kassentablet mit Ständer, Bondrucker und Kassenschublade. Bei Kasse Komplett auch Küchendrucker oder Scanner.
+- Einrichtung vor Ort: Ich baue auf, richte die Speedy Kasse ein, binde Ihr Kartenterminal an und schule Ihr Team.
+- Ihre Artikel: Artikel, Preise und Steuersätze angelegt, bis 80 oder 200 Stück. Sie kassieren ab dem ersten Tag.
+- Pflichten fürs Finanzamt: TSE-konform eingerichtet, mit Checkliste für die Meldung und den Unterlagen für die Kassennachschau.
+
+## Ablauf
+1. Erstgespräch: Branche, Tresen, Artikel und Kartenzahlung klären. Am Telefon oder bei Ihnen.
+2. Angebot: Paket, Geräte und Starttermin schriftlich. Keine versteckten Posten.
+3. Einrichtung: Aufbau, Artikel, Schulung. Dazu die Checkliste fürs Finanzamt.
+4. Betreuung: Fernwartung, Updates und Ersatzkasse mit dem Wartungsvertrag.
+
+## Kassensystem für die Gastronomie (https://kassen-orth.de/kassensystem-gastronomie/)
+Tische, Küchenbon, getrennte Rechnungen und Kartenzahlung auf einem Tablet. Speisen mit 7 %, Getränke mit 19 %, eingerichtet bei Ihnen vor Ort.
+In der Gastronomie muss die Kasse am Freitagabend schnell sein und am Montag sauber abrechnen. Bestellungen laufen über mehrere Tische, die Küche braucht ihren Bon, und am Ende will der Tisch getrennt zahlen, teils bar, teils mit Karte.
+Ich richte dafür die Speedy Kasse auf Tablets ein, verbinde Bondrucker in Küche und Theke und binde das BestPay-Kartenterminal an. Ihre Speisekarte lege ich mit den richtigen Steuersätzen an, bevor Sie den ersten Gast bedienen.
+
+Funktionen:
+- Tische und Bestellungen: Tische anlegen, Bestellungen umbuchen, Gäste getrennt abrechnen per Drag-and-drop.
+- Küchen- und Thekenbon: Speisen drucken in der Küche, Getränke an der Theke, ohne Zettelwirtschaft.
+- Zwei Steuersätze: Speisen mit 7 %, Getränke mit 19 %, auch bei Menüs und Buffets richtig aufgeteilt.
+- Trinkgeld und Rabatte: Trinkgeld und spontane Rabatte werden getrennt gebucht und erscheinen sauber im Tagesabschluss.
+- Ohne Internet weiterkassieren: Fällt das WLAN aus, kassiert die Speedy Kasse weiter und gleicht später ab.
+- Kartenzahlung am Tisch: Das BestPay-Terminal übernimmt den Betrag direkt von der Kasse.
+
+### 7 % auf Speisen: Was an der Kasse stimmen muss
+Seit dem 1. Januar 2026 gilt für Speisen in der Gastronomie dauerhaft der ermäßigte Steuersatz von 7 %, egal ob vor Ort gegessen, mitgenommen oder geliefert. Getränke bleiben bei 19 %. Für die Kasse heißt das: Jeder Artikel braucht den richtigen Steuersatz, und Kombipreise wie Mittagsmenü mit Getränk oder ein Buffet mit Getränken müssen aufgeteilt werden.
+Bei der Einrichtung lege ich Ihre Karte so an, dass das stimmt, und halte die Einstellungen für die Verfahrensdokumentation fest. Mehr dazu im Ratgeber zu 7 % auf Speisen.
+
+### Typische Ausstattung für ein Restaurant
+- Ein Kassentablet an der Theke, ein zweites Gerät für den Service
+- Bondrucker an der Theke und ein Küchendrucker
+- Kassenschublade für Bargeld
+- BestPay-Kartenterminal, mobil oder am Tresen (über BestPay)
+- Speedy Kasse mit TSE, Tischplan und Ihrer Speisekarte
+
+### Wenn am Samstagabend die Kasse ausfällt
+Ein Kassenausfall bei vollem Haus kostet Umsatz und Nerven. Viele Probleme löse ich per Fernwartung, ohne dass jemand anreisen muss. Mit dem Wartungsvertrag halte ich zusätzlich eine vorbereitete Ersatzkasse bereit, damit Sie weiterkassieren können, bis Ihr Gerät wieder läuft.
+
+Empfehlung: Sobald Sie einen Küchendrucker oder ein zweites Gerät für den Service brauchen, ist es Kasse Komplett. Ein Imbiss oder Café mit einer Kasse und einem Bondrucker kommt mit Kasse Kompakt aus. Für den Samstagabend empfehle ich den Wartungsvertrag mit Ersatzkasse.
+
+Fragen:
+- Muss ich meine Kasse für 7 % auf Speisen umstellen? Ja, falls noch nicht geschehen. Seit 1. Januar 2026 gilt der ermäßigte Satz dauerhaft für Speisen, Getränke bleiben bei 19 %. Prüfen Sie Artikel, Menüs und Buffets und dokumentieren Sie die Änderung.
+- Können mehrere Mitarbeiter gleichzeitig bonieren? Ja. Mehrere Tablets arbeiten mit denselben Tischen und Artikeln. Ab der zweiten Kasse ist es Kasse Komplett.
+- Kann ich meine alte Speisekarte übernehmen? Ja. Eine Liste aus Excel, eine PDF-Karte oder Fotos reichen. Ich lege die Artikel mit Gruppen und Steuersätzen an.
+- Was passiert, wenn das Internet ausfällt? Die Speedy Kasse arbeitet offline weiter. Kartenzahlung braucht je nach Terminal eine Verbindung; das klären wir im Erstgespräch.
+- Was kostet eine Gastro-Kasse? Kasse Kompakt kostet 1.900 €, Kasse Komplett mit Küchendrucker oder zweiter Kasse 2.900 €, jeweils einmalig und netto. Der Wartungsvertrag kostet 39 € im Monat. Die Software-Gebühren rechnet der Anbieter direkt mit Ihnen ab.
+
+## Kassensystem für den Einzelhandel (https://kassen-orth.de/kassensystem-einzelhandel/)
+Artikelgruppen, Scanner, Pfand und Kartenzahlung für Laden, Bäckerei, Metzgerei und Hofladen. Ihre Artikel lege ich vor dem ersten Verkaufstag an.
+Im Laden zählt jede Sekunde an der Kasse. Kunden wollen schnell bezahlen, Sie wollen am Abend wissen, was verkauft wurde. Dafür braucht es eine Kasse, die Ihre Artikel kennt, mit Barcodes oder Schnelltasten arbeitet und die Kartenzahlung ohne Abtippen erledigt.
+Ich richte die Speedy Kasse auf einem Tablet ein, übernehme Ihre Artikel aus einer Excel-Liste und verbinde Bondrucker, Schublade, Scanner und Kartenterminal. In der Bäckerei reichen oft Schnelltasten mit Bildern, im Laden mit vielen verpackten Waren lohnt sich ein Scanner.
+
+Funktionen:
+- Artikel und Gruppen: Die Kasse fasst beliebig viele Artikel mit Bildern und Gruppen. Im Paket lege ich bis 80 (Kompakt) oder 200 (Komplett) für Sie an.
+- Import aus Excel: Artikel, Preise und Kunden aus CSV oder Excel übernehmen.
+- Scanner und Nummernblock: Barcodes scannen oder Preise schnell über den Nummernblock erfassen.
+- Pfand: Pfand automatisch abrechnen, inklusive Rückgabe und Pfandbon.
+- Tagesabschluss: Umsätze nach Artikelgruppen und Zahlarten, exportierbar für die Buchhaltung.
+- Kartenzahlung: BestPay-Terminal übernimmt den Betrag direkt von der Kasse.
+
+### Bäckerei, Metzgerei, Hofladen: Was anders ist
+In der Bäckerei werden viele lose Artikel in kurzer Zeit verkauft. Hier helfen große Schnelltasten mit Bildern und Artikelgruppen wie Brot, Brötchen und Kuchen. In der Metzgerei und im Hofladen kommen Gewichtsartikel und Pfand dazu, im Kiosk viele Barcodes.
+Im Erstgespräch schauen wir uns an, wie bei Ihnen verkauft wird, und ich richte die Oberfläche danach ein.
+
+### Typische Ausstattung für einen Laden
+- Kassentablet mit Ständer am Tresen
+- Bondrucker und Kassenschublade
+- Barcode-Scanner bei verpackter Ware
+- BestPay-Kartenterminal
+- Speedy Kasse mit TSE und Ihren Artikeln
+
+### Offene Ladenkasse und Kassenpflicht
+Viele kleine Läden führen noch eine offene Ladenkasse. Der Gesetzentwurf vom September 2026 sieht ab 2028 eine Pflicht zur elektronischen Kasse für Betriebe mit mehr als 100.000 € Umsatz vor. Beschlossen ist das noch nicht. Wer umstellen will, sollte das in Ruhe 2027 tun und nicht im Dezember. Details im Ratgeber zur Kassenpflicht.
+
+Empfehlung: Für einen Laden mit einer Kasse und einem Bondrucker passt Kasse Kompakt, das Kartenterminal binde ich an. Kommt ein Scanner, ein zweiter Drucker oder eine zweite Kasse dazu, ist es Kasse Komplett.
+
+Fragen:
+- Kann ich meine Artikel aus der alten Kasse übernehmen? Meist ja. Aus einer Excel- oder CSV-Liste übernehme ich Artikel, Preise und Gruppen.
+- Brauche ich einen Barcode-Scanner? Nur bei vielen verpackten Artikeln. In der Bäckerei reichen oft Schnelltasten mit Bildern.
+- Kann die Kasse Pfand abrechnen? Ja. Pfand wird automatisch mitgebucht, Rückgaben und Pfandbons sind möglich.
+- Bekomme ich einen Tagesabschluss für den Steuerberater? Ja. Umsätze nach Gruppen und Zahlarten lassen sich exportieren, die Daten für die Kassennachschau liegen im Format DSFinV-K vor.
+- Was kostet eine Ladenkasse? Kasse Kompakt kostet 1.900 € einmalig, netto, mit Hardware, Einrichtung und Ihren Artikeln. Dazu kommen die Software-Gebühren beim Anbieter, das Kartenterminal über BestPay und auf Wunsch der Wartungsvertrag für 39 € im Monat.
+
+## Kassensystem für Friseure und Kosmetik (https://kassen-orth.de/kassensystem-friseur/)
+Leistungen und Produkte auf einem Beleg, Gutscheine, Kundenkartei und Kartenzahlung. TSE-konform, auch wenn Sie heute noch eine offene Ladenkasse führen.
+Im Salon wird nicht nur ein Schnitt bezahlt, sondern oft auch ein Pflegeprodukt oder ein Gutschein. Mehrere Mitarbeiter arbeiten an einer Kasse, und am Monatsende soll klar sein, wer welchen Umsatz gemacht hat.
+Ich richte die Speedy Kasse dafür am Empfang ein: Leistungen und Produkte als Artikel, ein Benutzer je Mitarbeiter, Gutscheine und Kartenzahlung über BestPay. Ihr Terminbuch läuft weiter wie bisher, die Kasse übernimmt das Bezahlen.
+
+Funktionen:
+- Leistungen und Produkte: Schnitt, Farbe und Pflegeprodukte auf einem Beleg.
+- Mitarbeiter: Ein Benutzer je Mitarbeiter, jeder Umsatz ist zugeordnet.
+- Gutscheine: Gutscheine verkaufen und einlösen, sauber verbucht.
+- Kundenkartei: Kunden anlegen und frühere Besuche nachsehen.
+- Kartenzahlung: Girocard, Kreditkarte und Smartphone über BestPay.
+- Klein am Empfang: Ein Tablet mit Bondrucker und Schublade braucht wenig Platz.
+
+### Offene Ladenkasse im Salon: Was sich ändern kann
+Viele Salons arbeiten noch mit einer offenen Ladenkasse und einem Kassenbuch. Der Regierungsentwurf zum Zweiten Kassengesetz sieht ab dem 1. Januar 2028 eine Pflicht zur elektronischen Kasse für Betriebe mit mehr als 100.000 € Umsatz vor. Wer weniger als 12.000 € im Jahr bar einnimmt, wäre ausgenommen. Beschlossen ist das noch nicht.
+Eine elektronische Kasse spart schon heute das Zählen und Nachtragen am Abend und liefert dem Steuerberater saubere Zahlen.
+
+### Typische Ausstattung für einen Salon
+- Kassentablet am Empfang
+- Kleiner Bondrucker und Kassenschublade
+- BestPay-Kartenterminal
+- Speedy Kasse mit TSE, Leistungen, Produkten und Mitarbeitern
+
+Empfehlung: Für die meisten Salons passt Kasse Kompakt, das Kartenterminal binde ich an. Mit dem Wartungsvertrag bekommen Sie bei einem Ausfall eine Ersatzkasse.
+
+Fragen:
+- Ich habe nur eine offene Ladenkasse. Muss ich wechseln? Heute noch nicht. Der Gesetzentwurf sieht ab 2028 eine Kassenpflicht ab 100.000 € Umsatz vor. Beschlossen ist er noch nicht.
+- Kann ich Termine in der Kasse planen? Die Speedy Kasse ist keine Terminplanung. Ihr Terminbuch läuft weiter, die Kasse übernimmt das Bezahlen.
+- Kann ich Umsätze je Mitarbeiter sehen? Ja. Jeder Mitarbeiter meldet sich mit eigenem Benutzer an, die Umsätze sind zugeordnet.
+- Wie funktionieren Gutscheine? Gutscheine werden als Artikel verkauft und beim Einlösen verrechnet. Steuerlich wird das bei der Einrichtung richtig angelegt.
+- Was kostet die Kasse für den Salon? Kasse Kompakt kostet 1.900 € einmalig, netto, mit Hardware, Einrichtung und Ihren Artikeln. Software-Gebühren und Kartenterminal rechnen die Anbieter direkt ab, der Wartungsvertrag kostet 39 € im Monat.
+
+## Kasse mieten für Vereinsfest, Weinfest und Markt (https://kassen-orth.de/kasse-mieten-events/)
+Für Vereine und Veranstalter, die jedes Jahr feiern: Eventkasse für 249 € netto je Kasse und Wochenende. Ihre Artikel tragen Sie in meine Excel-Vorlage ein, ich bereite die Kasse damit vor.
+Eine Eventkasse lohnt sich, wenn Ihr Verein mehrere Feste im Jahr hat, an mehreren Ständen kassiert wird oder Kartenzahlung gewünscht ist. Dann spart sie das Zählen am Abend und liefert eine saubere Abrechnung für Kassenwart und Steuerberater.
+Nicht jedes Fest braucht eine elektronische Kasse. Wer nur bar verkauft und wenige Artikel hat, darf heute weiter mit offener Ladenkasse und Kassenbericht arbeiten. Sobald aber eine elektronische Kasse im Einsatz ist, gelten TSE, Belegausgabe und Meldung beim Finanzamt, auch für gemietete Geräte.
+
+Funktionen:
+- Schnell kassieren: Große Tasten mit Bildern für Getränke und Speisen, in Minuten erklärt.
+- Ohne Internet: Die Kasse arbeitet offline, auch am Stand ohne WLAN.
+- Pfand und Becher: Becherpfand und Rückgabe auf Knopfdruck.
+- Ihre Artikel per Vorlage: Sie füllen meine Excel-Vorlage aus, ich übernehme bis zu 50 Artikel.
+- TSE für jedes Fest: Die TSE kaufen Sie einmal, ich lagere sie bis zu Ihrem nächsten Fest ein.
+- Klare Abrechnung: Umsätze je Kasse und Artikel am Ende des Tages, für Kassenwart und Steuerberater.
+
+### Wann sich eine Eventkasse lohnt
+- Vereine mit mehreren Festen im Jahr, die ihre Artikelliste wiederverwenden
+- Weinfeste und größere Feste mit mehreren Ausschankstellen
+- Feste, auf denen Gäste mit Karte zahlen wollen
+- Veranstalter, die Pfand oder Bons sauber abrechnen müssen
+
+### Wann eine offene Ladenkasse reicht
+Bei kleinen Festen mit wenigen Artikeln und reinem Barverkauf ist eine offene Ladenkasse mit täglichem Kassenbericht heute erlaubt und oft einfacher. Eine elektronische Kasse bringt zusätzliche Pflichten mit: TSE, Belegausgabe und die Meldung beim Finanzamt nach Anschaffung und nach Rückgabe. Ob Ihr Verein umsteigen sollte, klären Sie am besten mit Ihrem Steuerberater. Mehr dazu im Ratgeber zur Kasse fürs Vereinsfest.
+
+### So läuft die Miete ab
+- Sie bekommen die Excel-Vorlage und tragen Artikel und Preise ein
+- Ich bereite Kasse und TSE vor und übergebe sie vor dem Fest
+- Nach dem Fest bekommen Sie die Auswertung, ich lagere die TSE für das nächste Mal ein
+- Die Meldung beim Finanzamt erledigen Sie mit meiner Checkliste
+
+### Foodtruck und Wochenmarkt
+Wer jede Woche verkauft, fährt mit einer eigenen Kasse besser als mit Miete. Dafür passt Kasse Kompakt für 1.900 € einmalig, das Kartenterminal binde ich an.
+
+Empfehlung: Für einzelne Feste passt die Eventkasse für 249 € je Kasse und Wochenende, die TSE kommt einmalig dazu. Für den wöchentlichen Markt oder den Foodtruck passt Kasse Kompakt.
+
+Fragen:
+- Braucht unser Vereinsfest überhaupt eine Kasse? Eine Pflicht zur elektronischen Kasse gibt es heute nicht. Eine offene Ladenkasse mit Kassenbericht ist erlaubt. Wer elektronisch kassiert, braucht eine TSE und muss die Kasse melden.
+- Wer meldet die gemietete Kasse beim Finanzamt? Gemietete Kassen gelten wie gekaufte. Gemeldet wird vom Verein oder Veranstalter, nach Beginn und nach Ende der Nutzung. Sie bekommen dafür eine Checkliste.
+- Warum muss ich die TSE kaufen? Die TSE gehört zu Ihren Aufzeichnungen. Sie kaufen sie einmal, ich lagere sie ein und setze sie bei Ihrem nächsten Fest wieder ein.
+- Wie früh muss ich die Kasse anfragen? Am besten vier Wochen vorher, damit Vorlage, Artikel und Geräte rechtzeitig fertig sind.
+- Was ist im Preis enthalten? Eine Kasse mit Bondrucker und Schublade für bis zu vier Tage und bis zu 50 Artikel aus der Vorlage. Kartenterminal, weitere Kassen und Lieferung stehen im Angebot.
+
+## Kassensysteme im Saarland – eingerichtet vor Ort (https://kassen-orth.de/kassensystem-saarland/)
+Von Losheim am See aus richte ich Kassen im ganzen Saarland ein, bei Ihnen vor Ort.
+Kassen Orth sitzt in Losheim am See im Landkreis Merzig-Wadern. Von hier aus richte ich Kassensysteme für Gastronomie, Einzelhandel, Salons und Vereine im ganzen Saarland ein: vom Café in Merzig über die Bäckerei in Saarlouis bis zum Imbiss in Saarbrücken.
+Die Einrichtung und Schulung mache ich bei Ihnen vor Ort. Danach helfe ich per Fernwartung: Updates, neue Artikel oder Preisänderungen erledige ich, ohne dass jemand anreisen muss. Mit dem Wartungsvertrag ist das inklusive, sonst nach Aufwand.
+Orte: Losheim am See, Merzig, Mettlach, Wadern, Saarlouis, Dillingen, Lebach, Saarbrücken, Völklingen, St. Wendel, Neunkirchen, Homburg.
+
+### Für welche Betriebe im Saarland
+- Restaurants, Cafés und Ausflugslokale, etwa am Losheimer Stausee und an der Saarschleife
+- Bäckereien, Metzgereien und Hofläden
+- Friseure, Kosmetik- und Fußpflegestudios
+- Vereine und Veranstalter von Dorffesten und Weihnachtsmärkten
+- Foodtrucks und Marktstände
+
+### Vor Ort und per Fernwartung
+Im Landkreis Merzig-Wadern bin ich am schnellsten bei Ihnen. Im übrigen Saarland komme ich zur Einrichtung und Schulung, bei Bedarf auch später noch einmal. Die meisten Anliegen danach, etwa neue Artikel, Preisänderungen oder Updates, löse ich per Fernwartung.
+
+### Kasse beim Finanzamt melden
+Seit 2025 muss jede elektronische Kasse dem Finanzamt gemeldet werden, über Mein ELSTER und innerhalb eines Monats nach Anschaffung. Zuständig ist das Finanzamt Ihres Betriebs. Nach der Einrichtung bekommen Sie eine Checkliste mit allen Angaben zu Kasse und TSE, die Sie für die Meldung brauchen.
+
+Fragen:
+- Kommen Sie auch nach Saarbrücken oder Homburg? Ja. Zur Einrichtung und Schulung komme ich im ganzen Saarland zu Ihnen. Danach läuft das meiste per Fernwartung.
+- Ist die Einrichtung vor Ort im Preis enthalten? Ja, Einrichtung und Schulung bei Ihnen sind Teil der Pakete. Alles Weitere steht vorab im Festpreis-Angebot.
+- Gibt es Eventkassen für Feste im Saarland? Ja. Die Eventkasse kostet 249 € netto je Kasse und Wochenende. Ihre Artikel übernehme ich aus meiner Excel-Vorlage.
+- Wer meldet die Kasse beim Finanzamt? Sie selbst oder Ihr Steuerberater, über Mein ELSTER. Sie bekommen von mir eine Checkliste mit allen Angaben zu Kasse und TSE.
+
+## Kassensystem in Trier, Konz und Saarburg (https://kassen-orth.de/kassensystem-trier/)
+Von Gusterath aus richte ich Kassen in Trier, im Landkreis Trier-Saarburg und bis Bitburg ein, bei Ihnen vor Ort.
+Für Betriebe in Trier und im Landkreis Trier-Saarburg bin ich kurz erreichbar: Ich wohne in Gusterath bei Trier. Ob Café in der Innenstadt, Laden in Konz, Weingut an der Saar oder Imbiss in Schweich, ich richte die Kasse bei Ihnen ein und schule Ihr Team.
+Nach dem Start helfe ich per Fernwartung. Neue Artikel, Preise oder Updates spiele ich ein, ohne dass jemand vorbeikommen muss. Mit dem Wartungsvertrag ist das inklusive, sonst nach Aufwand.
+Orte: Trier, Konz, Saarburg, Schweich, Hermeskeil, Bitburg, Gusterath, Waldrach, Kell am See, Trierweiler, Mertesdorf.
+
+### Für welche Betriebe in der Region Trier
+- Cafés, Restaurants und Bars in der Innenstadt
+- Läden mit vielen Kartenzahlungen, etwa rund um den Hauptmarkt
+- Weingüter mit Hofverkauf und Straußwirtschaft an Mosel, Saar und Ruwer
+- Bäckereien, Metzgereien und Hofläden im Landkreis
+- Vereine und Veranstalter von Wein- und Dorffesten
+
+### Weingut: Hofverkauf und Straußwirtschaft auf einer Kasse
+Viele Weingüter verkaufen Flaschen ab Hof und bewirten in der Saison Gäste. Auf einer Kasse lässt sich beides abbilden: Flaschenverkauf, Speisen mit 7 % und Getränke vor Ort mit 19 %, getrennt nach Artikelgruppen. Für Weinfeste kommt die Eventkasse dazu.
+
+### Bis Bitburg und darüber hinaus
+Bis Bitburg und in die Südeifel komme ich regulär zur Einrichtung zu Ihnen. Größere Installationen mit mehreren Kassen richte ich auch weiter weg in Rheinland-Pfalz ein; das klären wir im Erstgespräch.
+
+### Nur für Betriebe in Deutschland
+Die Kassen und TSE, die ich einrichte, sind für Betriebe in Deutschland ausgelegt. Betriebe in Luxemburg betreue ich nicht.
+
+Fragen:
+- Kommen Sie auch nach Konz, Saarburg oder Hermeskeil? Ja. Im Landkreis Trier-Saarburg komme ich zur Einrichtung und Schulung zu Ihnen.
+- Kann ein Weingut Flaschen und Straußwirtschaft über eine Kasse abrechnen? Ja. Flaschen, Speisen mit 7 % und Getränke vor Ort mit 19 % laufen auf einer Kasse mit getrennten Artikelgruppen.
+- Was passiert, wenn meine Kasse ausfällt? Zuerst helfe ich per Fernwartung. Mit dem Wartungsvertrag bekommen Sie zusätzlich eine Ersatzkasse, damit Sie weiterkassieren können.
+- Betreuen Sie Betriebe in Luxemburg? Nein. Die Kassen sind für Betriebe in Deutschland ausgelegt.
+
+## Ratgeber (Stand 23.11.2026)
+
+### Kassenpflicht ab 2028: Was der Gesetzentwurf vorsieht (https://kassen-orth.de/ratgeber/kassenpflicht-2028/)
+Status: Geplant, nicht beschlossen – Regierungsentwurf vom 23.09.2026, Anhörung im Finanzausschuss am 07.12.2026.
+Kurz gesagt: Nach dem Regierungsentwurf zum Zweiten Kassengesetz (Kabinett 23.09.2026) sollen Betriebe mit mehr als 100.000 € Gesamtumsatz ab 1. Januar 2028 eine elektronische Kasse mit TSE nutzen müssen; wer weniger als 12.000 € im Jahr bar einnimmt, wäre ausgenommen. Beschlossen ist das Gesetz noch nicht (Stand 23.11.2026).
+Das Bundeskabinett hat am 23. September 2026 den Entwurf eines Zweiten Kassengesetzes beschlossen. Er sieht eine allgemeine Pflicht zur elektronischen Kasse vor. Beschlossen ist das Gesetz noch nicht: Die erste Lesung im Bundestag war am 6. November 2026, die Anhörung im Finanzausschuss ist für den 7. Dezember 2026 geplant.
+#### Wer wäre von der Kassenpflicht betroffen?
+- Betriebe mit mehr als 100.000 € Gesamtumsatz im Jahr
+- Ausgenommen, wer weniger als 12.000 € im Jahr bar einnimmt
+- Start laut Entwurf am 1. Januar 2028; im Koalitionsvertrag stand noch 2027
+#### Was soll sich sonst ändern?
+- Die offene Ladenkasse fällt für Betroffene weg
+- Statt Papierbon soll ein digitaler Beleg reichen, etwa per QR-Code oder E-Mail; auf Wunsch gibt es weiter Papier
+- Ein Wechsel der TSE soll gesondert gemeldet werden
+- Bußgeld bis 25.000 € bei Verstoß gegen die Kassenpflicht
+#### Was können Sie jetzt schon tun?
+Wer heute mit offener Ladenkasse arbeitet und über der Umsatzgrenze liegt, sollte 2027 umstellen, nicht im Dezember. Die Kasse muss eingerichtet, beim Finanzamt gemeldet und vom Team bedient werden können. Die Einzelheiten können sich im Gesetzgebungsverfahren noch ändern; diese Seite aktualisiere ich, sobald es beschlossen ist.
+- Ab wann gilt die Kassenpflicht? Laut Regierungsentwurf ab 1. Januar 2028. Das Gesetz ist noch nicht beschlossen; die Anhörung im Finanzausschuss ist für den 7. Dezember 2026 geplant.
+- Wer wäre von der Kassenpflicht betroffen? Betriebe mit mehr als 100.000 € Gesamtumsatz im Jahr. Ausgenommen wäre, wer weniger als 12.000 € im Jahr bar einnimmt.
+- Darf ich bis dahin eine offene Ladenkasse führen? Ja. Heute gibt es keine allgemeine Pflicht zur elektronischen Kasse; eine offene Ladenkasse mit täglichem Kassenbericht ist erlaubt.
+Quellen: IHK Hannover: Gesetzentwurf zur Einführung einer allgemeinen Kassenpflicht (https://www.ihk.de/hannover/hauptnavigation/recht/aktuell3/gesetzentwurf-zur-einfuehrung-einer-allgemeinen-kassenpflicht-7201352); PwC: Gesetzentwurf zur Kassenpflicht vom Bundeskabinett beschlossen (https://blogs.pwc.de/de/steuern-und-recht/article/257009/gesetzentwurf-zur-einfuehrung-einer-kassenpflicht-vom-bundeskabinett-beschlossen/); ZDH: Einführung Kassenpflicht (https://www.zdh.de/themen-und-positionen/zdh-positionen/zdh-kompakt/einfuehrung-kassenpflicht/)
+
+### Kasse beim Finanzamt melden: So geht die Mitteilung über ELSTER (https://kassen-orth.de/ratgeber/kasse-beim-finanzamt-melden/)
+Status: Gilt bereits – Mitteilungspflicht nach § 146a Abs. 4 AO, seit 01.01.2025.
+Kurz gesagt: Seit 1. Januar 2025 müssen elektronische Kassen dem Finanzamt gemeldet werden (§ 146a Abs. 4 AO). Gemeldet wird elektronisch über Mein ELSTER oder eine Schnittstelle, innerhalb eines Monats nach Anschaffung und nach Außerbetriebnahme; gemietete Kassen zählen wie gekaufte.
+Seit dem 1. Januar 2025 gilt die Mitteilungspflicht für elektronische Aufzeichnungssysteme. Gemeldet wird ausschließlich elektronisch, über Mein ELSTER oder eine Schnittstelle der Kassensoftware.
+#### Welche Fristen gelten für die Meldung?
+- Kassen, die vor dem 1. Juli 2025 angeschafft wurden, mussten bis zum 31. Juli 2025 gemeldet sein
+- Neue Kassen: innerhalb eines Monats nach Anschaffung
+- Außerbetriebnahme: ebenfalls innerhalb eines Monats
+- Miete und Leasing zählen wie eine Anschaffung
+#### Was wird beim Finanzamt gemeldet?
+- Art, Hersteller, Modell und Seriennummer der Kasse
+- Die TSE mit Seriennummer und Zertifikat
+- Datum der Anschaffung oder Außerbetriebnahme
+#### Ihre Checkliste nach der Einrichtung
+Die Meldung machen Sie selbst oder Ihr Steuerberater. Bei jeder Kasse, die ich einrichte, bekommen Sie eine Checkliste mit allen Angaben zu Kasse und TSE, die Sie dafür brauchen, und den Fristen.
+- Bis wann muss ich eine neue Kasse melden? Innerhalb eines Monats nach der Anschaffung. Dasselbe gilt für die Außerbetriebnahme.
+- Wie melde ich die Kasse? Elektronisch über Mein ELSTER oder eine Schnittstelle der Kassensoftware. Papierformulare gibt es dafür nicht.
+- Muss ich eine gemietete Kasse auch melden? Ja. Gemietete oder geleaste Kassen stehen gekauften gleich.
+Quellen: Finanzverwaltung NRW: Mitteilungspflicht elektronischer Aufzeichnungssysteme (https://www.finanzamt.nrw.de/en/node/1790); Wolters Kluwer: Elektronische Kassenmeldung (https://www.wolterskluwer.com/de-de/expert-insights/elektronische-kassenmeldung)
+
+### TSE-Zertifikat läuft ab: Was Sie tun müssen (https://kassen-orth.de/ratgeber/tse-zertifikat-abgelaufen/)
+Status: Gilt bereits – Daueraufgabe: viele TSEs aus 2020/21 laufen 2025 bis 2027 ab.
+Kurz gesagt: Das Zertifikat einer TSE (technische Sicherheitseinrichtung) ist meist fünf Jahre gültig, bei manchen Modellen sieben. Läuft es ab, kann die TSE keine Bons mehr signieren. Viele Hardware-TSEs aus 2020 und 2021 sind deshalb 2025 bis 2027 fällig und müssen getauscht, ab- und neu angemeldet werden.
+Die technische Sicherheitseinrichtung (TSE) signiert jeden Bon. Ihr Zertifikat ist meist fünf Jahre gültig, bei manchen Modellen sieben. Läuft es ab, kann die TSE nicht mehr signieren, und die Kasse ist nicht mehr ordnungsgemäß.
+#### Wer sollte seine TSE jetzt prüfen?
+Betroffen sind vor allem Hardware-TSEs, die 2020 und 2021 eingebaut wurden, als die TSE-Pflicht kam. Ob die Laufzeit ab Herstellung oder ab Aktivierung zählt, hängt vom Hersteller ab. Das Ablaufdatum steht in der Kassensoftware oder im Datenblatt der TSE.
+#### Wie läuft der TSE-Tausch ab?
+- Neue TSE einbauen oder Cloud-TSE einrichten
+- Daten der alten TSE sichern und aufbewahren
+- Alte TSE beim Finanzamt abmelden, neue melden (Mein ELSTER)
+- Verfahrensdokumentation anpassen
+#### Hilfe beim Tausch
+Den Tausch übernehme ich auch für Kassen, die ich nicht selbst eingerichtet habe. Für Ab- und Anmeldung beim Finanzamt bekommen Sie eine Checkliste. Läuft Ihre TSE bald ab, ist das ein guter Zeitpunkt, die ganze Kasse zu prüfen.
+- Wie lange ist eine TSE gültig? Meist fünf Jahre, bei manchen Modellen sieben. Ob ab Herstellung oder Aktivierung gezählt wird, hängt vom Hersteller ab.
+- Was passiert, wenn die TSE abgelaufen ist? Die TSE kann keine Bons mehr signieren. Die Kasse ist dann nicht mehr ordnungsgemäß, bis eine neue TSE eingesetzt ist.
+- Was muss ich nach dem TSE-Tausch melden? Die alte TSE beim Finanzamt abmelden und die neue melden, über Mein ELSTER. Außerdem die Verfahrensdokumentation anpassen.
+Quellen: Handwerksblatt: Ablaufdatum der Zertifikate für die TSE prüfen (https://www.handwerksblatt.de/handwerkspolitik/themen-specials/registrierkassen-worauf-muessen-haendler-achten/registrierkassen-ablaufdatum-der-zertifikate-fuer-die-tse-pruefen); fiskaltrust: TSE-Austausch 2025 und darüber hinaus (https://fiskaltrust.eu/news/tse-austausch-2025-und-daruber-hinaus/)
+
+### 7 % Mehrwertsteuer auf Speisen: Kasse richtig einstellen (https://kassen-orth.de/ratgeber/mehrwertsteuer-gastronomie-7-prozent/)
+Status: Gilt bereits – Steueränderungsgesetz 2025, gilt seit 01.01.2026.
+Kurz gesagt: Seit 1. Januar 2026 gilt in der Gastronomie dauerhaft 7 % Umsatzsteuer auf Speisen, egal ob vor Ort, zum Mitnehmen oder geliefert. Getränke bleiben bei 19 %. Menüs, Kombipreise und Buffets mit Getränken müssen in der Kasse aufgeteilt werden.
+Seit dem 1. Januar 2026 gilt für Speisen in der Gastronomie dauerhaft der ermäßigte Steuersatz von 7 %, egal ob vor Ort, zum Mitnehmen oder geliefert. Getränke bleiben bei 19 %.
+#### Was muss ich in der Kasse prüfen?
+- Steuersatz jedes Speisen-Artikels auf 7 %
+- Getränke weiter auf 19 %
+- Menüs und Kombipreise aufteilen, etwa Essen mit Getränk
+- Buffets mit Getränken anteilig aufteilen
+- Milchmischgetränke mit mindestens 75 % Milch gehen zum Mitnehmen mit 7 %
+#### Dokumentation
+Die Umstellung gehört in die Verfahrensdokumentation der Kasse: wann, welche Artikel, wer es geändert hat. Bei einer Kassennachschau ist das die erste Frage.
+- Seit wann gelten 7 % auf Speisen? Seit 1. Januar 2026, dauerhaft, durch das Steueränderungsgesetz 2025.
+- Gelten 7 % auch für Getränke? Nein. Getränke bleiben bei 19 %. Eine Ausnahme sind Milchmischgetränke mit mindestens 75 % Milch zum Mitnehmen.
+- Was muss ich an der Kasse ändern? Den Steuersatz jedes Speisen-Artikels auf 7 % setzen, Menüs und Buffets aufteilen und die Änderung in der Verfahrensdokumentation festhalten.
+Quellen: IHK Dresden: Dauerhafte Steuersenkung auf Speisen seit 1. Januar in Kraft (https://www.ihk.de/dresden/servicenavigation/presse-publikationen/meldungen/dauerhafte-steuersenkung-auf-speisen-seit-1-januar-in-kraft-6929266); IHK Schwaben: Mehrwertsteuer in Gastronomie und Hotellerie (https://www.ihk.de/schwaben/produktmarken/branchen-und-netzwerke/freizeitwirtschaft-gastgewerbe-tourismus/aktuelles-freizeitwirtschaft/mehrwertsteuer-in-gastronomie-und-hotellerie-6926640)
+
+### Pflicht zur Kartenzahlung: Was bisher geplant ist (https://kassen-orth.de/ratgeber/kartenzahlung-pflicht/)
+Status: Geplant, nicht beschlossen – Eckpunkte des BMF vom 11.09.2026, noch kein Gesetzentwurf.
+Kurz gesagt: Eine Pflicht zur Kartenzahlung gibt es in Deutschland noch nicht. Das Bundesfinanzministerium hat am 11. September 2026 nur Eckpunkte vorgelegt: Betriebe sollen künftig mindestens eine digitale Zahlungsart neben Bargeld anbieten. Ein Gesetzentwurf und ein festes Datum fehlen (Stand 23.11.2026).
+Das Bundesfinanzministerium hat am 11. September 2026 Eckpunkte vorgelegt: Betriebe sollen künftig mindestens eine digitale Zahlungsart neben Bargeld anbieten. Ein Gesetzentwurf liegt noch nicht vor, ein festes Datum gibt es nicht.
+#### Was ist zur Kartenzahlungspflicht bekannt?
+- Mindestens eine digitale Zahlungsart, darunter ein europäisches Verfahren
+- Bargeld bleibt erlaubt
+- Ausnahmen für gemeinnützige Vereine vorgesehen
+- Ziel ist 2027, ohne festes Datum
+#### Was das für Ihre Kasse heißt
+Ein Kartenterminal, das mit der Kasse verbunden ist, spart doppeltes Eintippen und Fehler beim Abschluss. In beiden Paketen binde ich das BestPay-Terminal an die Kasse an; Gerät und Gebühren laufen direkt über BestPay. Die Kartengebühren rechnet BestPay direkt mit Ihnen ab.
+- Muss ich ab 2027 Kartenzahlung anbieten? Das ist nicht beschlossen. Es gibt nur Eckpunkte des Finanzministeriums mit dem Ziel 2027, aber noch keinen Gesetzentwurf.
+- Bleibt Bargeld erlaubt? Ja. Nach den Eckpunkten bleibt Bargeld erlaubt; dazu käme mindestens eine digitale Zahlungsart.
+- Gibt es Ausnahmen? Für gemeinnützige Vereine sind laut Eckpunkten Ausnahmen vorgesehen.
+Quellen: ZDFheute: Kartenzahlung überall möglich (https://www.zdfheute.de/wirtschaft/kartenzahlung-ueberall-moeglich-gesetzentwurf-bargeld-finanzministerium-100.html); gruendung.de: Kartenzahlungspflicht (https://www.gruendung.de/kartenzahlung/pflicht/)
+
+### Kasse fürs Vereinsfest: offene Ladenkasse oder Eventkasse? (https://kassen-orth.de/ratgeber/kasse-vereinsfest/)
+Status: Gilt bereits – Heutige Rechtslage; Kassenpflicht ab 2028 nur als Entwurf.
+Kurz gesagt: Ein Vereinsfest braucht heute keine elektronische Kasse; eine offene Ladenkasse mit täglichem Kassenbericht ist erlaubt. Wer aber elektronisch kassiert, auch mit einer gemieteten Kasse, braucht eine zertifizierte TSE, muss Belege ausgeben und die Kasse nach Beginn und nach Ende der Nutzung beim Finanzamt melden.
+Ob Dorffest, Weinfest oder Weihnachtsmarkt: Viele Vereine fragen sich, ob sie eine elektronische Kasse brauchen. Kurz gesagt: Heute gibt es keine Pflicht dazu. Wer aber elektronisch kassiert, muss die Regeln für elektronische Kassen einhalten, auch bei einem gemieteten Gerät für ein Wochenende.
+#### Braucht ein Vereinsfest heute eine Kasse?
+- Es gibt keine allgemeine Pflicht zur elektronischen Kasse; eine offene Ladenkasse ist erlaubt
+- Bei offener Ladenkasse wird täglich ein Kassenbericht geführt; eine TSE und Belegausgabe braucht es nicht
+- Wer eine elektronische Kasse nutzt, braucht eine zertifizierte TSE, muss Belege ausgeben und die Kasse beim Finanzamt melden
+- Eine Kassennachschau ist unangekündigt möglich, auch bei offener Ladenkasse
+#### Was muss bei einer gemieteten Kasse gemeldet werden?
+Gemietete oder geleaste Kassen stehen gekauften gleich. Gemeldet wird über Mein ELSTER innerhalb eines Monats nach Beginn der Nutzung und innerhalb eines Monats nach der Rückgabe. Nach Auffassung der bayerischen Finanzverwaltung meldet der Verein oder Veranstalter, der die Kasse nutzt. Eine Vereinfachung für Kurzzeitmiete gibt es nach unserer Recherche nicht.
+Wer bei mir eine Eventkasse mietet, bekommt eine Checkliste mit allen Angaben zu Kasse und TSE für die Meldung.
+#### Steuern beim Vereinsfest
+Der Verkauf von Speisen und Getränken auf einem Fest gehört bei gemeinnützigen Vereinen zum wirtschaftlichen Geschäftsbetrieb. Seit dem 1. Januar 2026 liegt die Besteuerungsgrenze dafür bei 50.000 € Einnahmen im Jahr, vorher waren es 45.000 €. Für die Einzelheiten ist Ihr Steuerberater der richtige Ansprechpartner.
+#### Was sich ab 2028 ändern könnte
+Der Entwurf zum Zweiten Kassengesetz sieht ab 2028 eine Kassenpflicht für Betriebe mit mehr als 100.000 € Umsatz vor; wer weniger als 12.000 € bar einnimmt, wäre ausgenommen. Vereine nennt der Entwurf nicht ausdrücklich. Als möglichen Ausnahmefall erwähnt die Begründung eine besondere Jubiläumsfeier, wenn die Grenze nur dadurch überschritten wird. Weitere Ausnahmen soll eine Verordnung regeln, die noch nicht vorliegt.
+#### Wann sich eine Eventkasse lohnt
+- Mehrere Feste im Jahr mit derselben Artikelliste
+- Mehrere Ausschankstellen, bei denen Abrechnung und Schwund ein Thema sind
+- Gäste, die mit Karte zahlen wollen
+- Pfand oder Bons, die sauber abgerechnet werden sollen
+#### Wann eine offene Ladenkasse reicht
+Bei kleinen Festen mit wenigen Artikeln und reinem Barverkauf ist die offene Ladenkasse oft die einfachere Lösung. Wertmarken oder Bons können helfen: Dann wird nur der Verkauf der Marken an einer Stelle erfasst. Wie das in Ihrem Verein sauber dokumentiert wird, klären Sie mit Ihrem Steuerberater.
+- Braucht ein Vereinsfest eine Registrierkasse? Nein, heute nicht. Eine offene Ladenkasse mit täglichem Kassenbericht ist erlaubt.
+- Muss eine gemietete Kasse fürs Fest gemeldet werden? Ja. Gemietete Kassen gelten wie gekaufte und werden innerhalb eines Monats nach Beginn und nach Ende der Nutzung über Mein ELSTER gemeldet.
+- Wie hoch ist die Besteuerungsgrenze für Vereine? Seit 1. Januar 2026 liegt sie bei 50.000 € Einnahmen im Jahr aus dem wirtschaftlichen Geschäftsbetrieb, vorher 45.000 €.
+Quellen: Bundestag: Drucksache 21/8867 (Entwurf Zweites Kassengesetz) (https://dserver.bundestag.de/btd/21/088/2108867.pdf); BMF-Schreiben vom 28.06.2024 zur Mitteilungspflicht (https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/2024-06-28-mitteilungsverpflichtung-nach-AO.pdf); Bayerisches Landesamt für Steuern: Leitfaden Kassenführung Festzelte (https://www.finanzamt.bayern.de/Informationen/Steuerinfos/Broschueren/2021-08-04_Leitfaden_Kassenfuehrung_Festzelte.pdf); EY: Steueränderungsgesetz 2025 (Besteuerungsgrenze 50.000 €) (https://www.ey.com/content/dam/ey-unified-site/ey-com/de-de/technical/steuernachrichten/documents/ey-steuernachrichten-kw49-staendg2025-gesetzesbeschluss-04-12-2025.pdf)
+
+## Häufige Fragen
+- Was ist Kassen Orth? Kassen Orth ist ein Kassenanbieter aus Losheim am See im Saarland. Inhaber Lucas Orth richtet Kassensysteme mit TSE und Anbindung ans Kartenterminal für Gastronomie, Einzelhandel, Friseure und Vereine im Saarland und in der Region Trier ein, zum Festpreis ab 1.900 € netto und bei den Kunden vor Ort.
+- Was kostet ein Kassensystem bei Ihnen? Kasse Kompakt kostet 1.900 €, Kasse Komplett ab der zweiten Kasse oder mit weiteren Geräten 2.900 €, jeweils einmalig und netto, mit Hardware, Einrichtung und Ihren Artikeln. Das Kartenterminal kommt über BestPay und wird von mir angebunden. Die Software-Gebühren rechnet der Softwareanbieter direkt mit Ihnen ab.
+- Welche laufenden Kosten kommen dazu? Die Gebühren der Kassensoftware rechnet der Softwareanbieter direkt mit Ihnen ab. Kartenterminal und Kartengebühren laufen direkt über BestPay. Der Wartungsvertrag mit Ersatzkasse ist optional und kostet 39 € im Monat, jede weitere Kasse 15 €.
+- Wie schnell melden Sie sich nach einer Anfrage? Spätestens am nächsten Werktag, persönlich von Lucas Orth. Wenn Sie eine Telefonnummer angeben, rufe ich Sie zurück. Eilt es, erreichen Sie mich direkt unter 0176 4655 1183 oder per WhatsApp.
+- Was bringt der Wartungsvertrag? Für 39 € im Monat (jede weitere Kasse +15 €): Ersatzkasse bei Ausfall, Fernwartung und Hilfe werktags, Updates und ein jährlicher Check inklusive TSE-Ablauf. Ohne Vertrag helfe ich nach Aufwand.
+- Muss ich meine Kasse beim Finanzamt melden? Ja. Seit 2025 gilt die Mitteilungspflicht über Mein ELSTER. Eine neue Kasse melden Sie oder Ihr Steuerberater innerhalb eines Monats. Nach der Einrichtung bekommen Sie eine Checkliste mit allen nötigen Angaben.
+- Ist die Kasse TSE-konform? Ja. Jede Kasse, die ich einrichte, arbeitet mit zertifizierter TSE und liefert die Daten im Format DSFinV-K für die Kassennachschau.
+- Arbeiten Sie nur mit Speedy? Speedy Kasse und BestPay sind mein Standard. Passt ein anderes System besser, etwa Retail7 oder SumUp, richte ich das ein.
+- Wie lange dauert es bis zur fertigen Kasse? Das hängt von Artikelzahl und Hardware ab. Den Starttermin legen wir im Angebot fest.
+
+## Kundenstimmen (Google, Lucas Orth)
+- „Von der ersten Minute wurde ich hervorragend von Herrn Orth betreut. Alles wurde zügig und in hervorragender Qualität umgesetzt. Herr Orth war jederzeit erreichbar. Wirklich klasse und eine 1000% Weiterempfehlung.“ – Marc Dörrenbächer, Allianz Versicherung
+- „Lucas Orth ist sehr kommunikativ, und es war von Anfang an klar, dass ihm der Erfolg unseres Unternehmens am Herzen liegt. Ich kann seine Dienstleistungen jedem wärmstens empfehlen, der einen echten Profi an seiner Seite braucht.“ – Nils Sturman, WTTech
+- „Die Zusammenarbeit hätte nicht besser laufen können. Von Anfang an hat Lucas nicht nur zuverlässig umgesetzt, was wir uns gewünscht haben, sondern eigenständig wertvolle Ideen eingebracht und aktive Lösungen vorgeschlagen.“ – Thomas Fuhlrott, zait GmbH & Co. KG
